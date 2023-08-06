@@ -1,0 +1,186 @@
+jobtitle,job_title_count,round
+Account Coordinator,2,0.00
+Account Executive,479,2.00
+Account Manager,205,0.00
+Accountant I,75,0.00
+Accountant II,82,0.00
+Accountant III,83,0.00
+Accountant IV,86,0.00
+Accounting Assistant I,86,0.00
+Accounting Assistant II,78,0.00
+Accounting Assistant III,67,0.00
+Accounting Assistant IV,90,0.00
+Actuary,26,0.00
+Administrative Assistant,38,0.00
+Administrative Assistant I,192,0.00
+Administrative Assistant II,43,0.00
+Administrative Assistant III,16,0.00
+Administrative Assistant IV,7,0.00
+Administrative Officer,57,0.00
+Analog Circuit Design manager,45,0.00
+Analyst Programmer,348,1.00
+Assistant Manager,43,0.00
+Assistant Professor,1,0.00
+Assistant Trainer,173,0.00
+Associate Professor,1,0.00
+Attorney,38,0.00
+Automation Specialist I,27,0.00
+Automation Specialist II,28,0.00
+Automation Specialist III,13,0.00
+Automation Specialist IV,18,0.00
+Budget/Accounting Analyst I,152,0.00
+Budget/Accounting Analyst II,156,0.00
+Budget/Accounting Analyst III,156,0.00
+Budget/Accounting Analyst IV,174,0.00
+Business Analyst,684,3.00
+Business Development Manager,5,0.00
+Business Systems Development Analyst,326,1.00
+Chief Design Engineer,90,0.00
+Community Outreach Specialist,27,0.00
+Compensation Analyst,30,0.00
+Computer Systems Analyst I,87,0.00
+Computer Systems Analyst II,91,0.00
+Computer Systems Analyst III,68,0.00
+Computer Systems Analyst IV,69,0.00
+Content Developer,53,0.00
+Content Developer II,51,0.00
+Content Developer III,51,0.00
+Cost Accountant,291,1.00
+Customer Success Manager,200,0.00
+Data Coordiator,348,1.00
+Data Visualization Specialist,434,2.00
+Database Administrator I,81,0.00
+Database Administrator II,86,0.00
+Database Administrator III,81,0.00
+Database Administrator IV,76,0.00
+Design Engineer,50,0.00
+Desktop Support Technician,302,1.00
+Developer I,77,0.00
+Developer II,64,0.00
+Developer III,81,0.00
+Developer IV,71,0.00
+Director of Sales,9,0.00
+Editor,88,0.00
+Electrical Engineer,29,0.00
+Engineer I,9,0.00
+Engineer II,6,0.00
+Engineer III,5,0.00
+Engineer IV,1,0.00
+Executive Assistant,38,0.00
+Executive Secretary,2,0.00
+Financial Advisor,27,0.00
+Financial Analyst,65,0.00
+General Manager,32,0.00
+Graphic Designer,12,0.00
+Help Desk Operator,88,0.00
+Help Desk Technician,322,1.00
+HR Manager,193,0.00
+Human Resources Analyst,393,1.00
+Human Resources Analyst II,591,2.00
+Human Resources Assistant I,14,0.00
+Human Resources Assistant II,10,0.00
+Human Resources Assistant III,14,0.00
+Human Resources Assistant IV,11,0.00
+Human Resources Manager,58,0.00
+Information Systems Manager,34,0.00
+Internal Auditor,50,0.00
+Junior Trainer,175,0.00
+Legal Assistant,19,0.00
+Librarian,27,0.00
+Marketing Assistant,8,0.00
+Marketing Manager,1,0.00
+Mechanical Systems Engineer,28,0.00
+Media Manager I,124,0.00
+Media Manager II,47,0.00
+Office Assistant I,7,0.00
+Office Assistant II,1,0.00
+Office Assistant IV,1,0.00
+Operator,210,0.00
+Paralegal,63,0.00
+Payment Adjustment Coordinator,23,0.00
+Pre-Sales Consultant,209,0.00
+Product Engineer,56,0.00
+Programmer Analyst I,86,0.00
+Programmer Analyst II,89,0.00
+Programmer Analyst III,78,0.00
+Programmer Analyst IV,72,0.00
+Programmer I,84,0.00
+Programmer II,77,0.00
+Programmer III,78,0.00
+Programmer IV,61,0.00
+Project Manager,329,1.00
+Quality Control Specialist,131,0.00
+Quality Engineer,61,0.00
+Recruiter,222,1.00
+Recruiting Manager,22,0.00
+Relationshiop Manager,201,0.00
+Research Assistant,39,0.00
+Research Assistant I,507,2.00
+Research Assistant II,718,3.00
+Research Assistant III,18,0.00
+Research Assistant IV,6,0.00
+Research Associate,201,0.00
+Sales Associate,6,0.00
+Sales Representative,5,0.00
+Senior Attorney,37,0.00
+Senior Cost Accountant,301,1.00
+Senior Developer,346,1.00
+Senior Editor,138,0.00
+Senior Financial Analyst,57,0.00
+Senior Quality Engineer,148,0.00
+Senior Recruiter,193,0.00
+Senior Sales Associate,14,0.00
+Senior Trainer,176,0.00
+Service Coordinator,313,1.00
+Service Manager,319,1.00
+Service Tech,315,1.00
+Service Tech II,315,1.00
+Service Tech III,319,1.00
+Software Consultant,327,1.00
+Software Engineer I,378,1.00
+Software Engineer II,80,0.00
+Software Engineer III,97,0.00
+Software Engineer IV,88,0.00
+Software Test Engineer I,80,0.00
+Software Test Engineer II,69,0.00
+Software Test Engineer III,82,0.00
+Software Test Engineer IV,84,0.00
+Solutions Engineer,204,0.00
+Solutions Engineer Manager,206,0.00
+Staff Accountant I,427,2.00
+Staff Accountant II,77,0.00
+Staff Accountant III,90,0.00
+Staff Accountant IV,101,0.00
+Staff Scientist,31,0.00
+Statistician I,12,0.00
+Statistician II,11,0.00
+Statistician III,4,0.00
+Statistician IV,2,0.00
+Structural Analysis Engineer,45,0.00
+Structural Engineer,293,1.00
+Support Staff,94,0.00
+Support Staff II,58,0.00
+Support Staff III,19,0.00
+Systems Administrator I,359,1.00
+Systems Administrator II,66,0.00
+Systems Administrator III,81,0.00
+Systems Administrator IV,84,0.00
+Tax Accountant,294,1.00
+Trainer I,171,0.00
+Trainer II,175,0.00
+Trainer III,173,0.00
+Training Manager,177,0.00
+VP Accounting,76,0.00
+VP Marketing,42,0.00
+VP of Training and Development,1,0.00
+VP Product Management,39,0.00
+VP Quality Control,43,0.00
+VP Sales,5,0.00
+Web Designer I,34,0.00
+Web Designer II,4,0.00
+Web Designer III,13,0.00
+Web Designer IV,6,0.00
+Web Developer I,95,0.00
+Web Developer II,74,0.00
+Web Developer III,69,0.00
+Web Developer IV,66,0.00

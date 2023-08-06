@@ -1,0 +1,39 @@
+department,gender,employee_count,percentage
+Accounting,Female,1462,45.80
+Accounting,Male,1640,51.38
+Accounting,Non-Conforming,90,2.82
+Auditing,Female,23,46.00
+Auditing,Male,27,54.00
+Business Development,Female,722,46.02
+Business Development,Male,798,50.86
+Business Development,Non-Conforming,49,3.12
+Engineering,Female,2983,46.70
+Engineering,Male,3225,50.49
+Engineering,Non-Conforming,179,2.80
+Human Resources,Female,820,47.48
+Human Resources,Male,867,50.20
+Human Resources,Non-Conforming,40,2.32
+Legal,Female,134,44.82
+Legal,Male,158,52.84
+Legal,Non-Conforming,7,2.34
+Marketing,Female,230,47.92
+Marketing,Male,245,51.04
+Marketing,Non-Conforming,5,1.04
+Product Management,Female,270,43.34
+Product Management,Male,338,54.25
+Product Management,Non-Conforming,15,2.41
+Research and Development,Female,491,47.58
+Research and Development,Male,506,49.03
+Research and Development,Non-Conforming,35,3.39
+Sales,Female,793,45.44
+Sales,Male,906,51.92
+Sales,Non-Conforming,46,2.64
+Services,Female,770,47.59
+Services,Male,815,50.37
+Services,Non-Conforming,33,2.04
+Support,Female,419,46.40
+Support,Male,450,49.83
+Support,Non-Conforming,34,3.77
+Training,Female,759,46.79
+Training,Male,819,50.49
+Training,Non-Conforming,44,2.71
