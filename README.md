@@ -1,4 +1,4 @@
-# Human-Resource-data-anysis
+# Human-Resource-data-analysis
 ### SQL(PostgreSQL) and data visualization with Power Bi
 
 ![Screenshot 2023-08-06 155802](https://github.com/HafsaOuaj/Human-Resource-data-anysis/assets/99544208/2f4bf877-91e9-40eb-83d6-96434a140d6a)
