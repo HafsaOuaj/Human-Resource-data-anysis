@@ -2,9 +2,6 @@
 
 ### 📌 Tools Used: SQL (PostgreSQL) & Power BI
 
-![Dashboard Screenshot 1](https://github.com/HafsaOuaj/Human-Resource-data-anysis/assets/99544208/2f4bf877-91e9-40eb-83d6-96434a140d6a)
-![Dashboard Screenshot 2](https://github.com/HafsaOuaj/Human-Resource-data-anysis/assets/99544208/89c3db13-04de-49e4-b92d-842214040dc4)
-
 ---
 
 ## 📂 Project Description
@@ -43,6 +40,10 @@ This project explores HR analytics using structured employee data. The main obje
 - The **Marketing** department has the **highest turnover rate**, followed by **Training**. Departments like **R&D**, **Support**, and **Legal** have the **lowest**.  
 - The majority of employees are from the state of **Ohio**.  
 - The **average tenure** across departments is around **8 years**, with **Legal** and **Auditing** having the highest average, and **Sales**, **Marketing**, and **Services** having the lowest.
+
+![Dashboard Screenshot 1](https://github.com/HafsaOuaj/Human-Resource-data-anysis/assets/99544208/2f4bf877-91e9-40eb-83d6-96434a140d6a)
+![Dashboard Screenshot 2](https://github.com/HafsaOuaj/Human-Resource-data-anysis/assets/99544208/89c3db13-04de-49e4-b92d-842214040dc4)
+
 
 ---
 
